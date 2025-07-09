@@ -1,0 +1,33 @@
+Morse code is a method of encoding text characters as sequences of dots (.) and dashes (-). Each letter of the alphabet and each digit is represented by a unique combination of these signals. This system was historically used for telegraphy and is still recognized as a simple and reliable form of communication.
+
+In Morse code, letters and numbers are translated into patterns made up of short signals (dots) and long signals (dashes). For example, the letter A is represented by .- (dot followed by dash), B by -... (dash followed by three dots), and the digit 1 by .---- (one dot followed by four dashes). Spaces between letters are indicated by a short pause (or space in text), and spaces between words are commonly shown as /.
+
+Here is an example of how to encode the message "HELLO" into Morse code:
+
+Write down the plaintext message: HELLO
+
+Replace each letter with its Morse code equivalent:
+
+H = .... (four dots)
+
+E = . (one dot)
+
+L = .-.. (dot dash dot dot)
+
+L = .-..
+
+O = --- (three dashes)
+
+Separate each Morse code letter with a space:
+.... . .-.. .-.. ---
+
+The encoded Morse code for “HELLO” is:
+.... . .-.. .-.. ---
+
+To decode Morse code back to text, the process is reversed:
+
+Each sequence of dots and dashes is matched to its corresponding letter or digit.
+
+Spaces separate individual Morse letters, and / or extra spaces separate words.
+
+For example, decoding the Morse code .... . .-.. .-.. --- gives the original text “HELLO”.
